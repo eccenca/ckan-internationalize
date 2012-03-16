@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the ckan project.
 # 
 # Translators:
+# Karlis  <karlisr@yahoo.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: CKAN\n"
@@ -10,97 +11,97 @@ msgstr ""
 "POT-Creation-Date: 2012-03-16 14:49+0000\n"
 "PO-Revision-Date: 2012-03-16 14:59+0000\n"
 "Last-Translator: Sean Hammond <sean.hammond@okfn.org>\n"
-"Language-Team: Romanian (http://www.transifex.net/projects/p/ckan/language/ro/)\n"
+"Language-Team: Latvian (http://www.transifex.net/projects/p/ckan/language/lv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
-"Language: ro\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1))\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2)\n"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:6
 #: ckanext/stats/templates/ckanext/stats/index.html:8
 #: ckan/templates/layout_base.html:164
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:37
 #: ckan/templates/admin/layout.html:10 ckan/templates/revision/list.html:11
 msgid "Home"
-msgstr ""
+msgstr "Sākumlapa"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:43
 msgid "Total number of Datasets"
-msgstr ""
+msgstr "Kopējais datu kopu skaits"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:46
 msgid "Revisions to Datasets per week"
-msgstr ""
+msgstr "Datu kopu izmaiņas nedēļas laikā"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:49
 msgid "Top Rated Datasets"
-msgstr ""
+msgstr "Visaugstāk vērtētās datu kopas"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:51
 #: ckanext/stats/templates/ckanext/stats/index.html:60
 #: ckan/logic/validators.py:61 ckan/logic/validators.py:87
 #: ckan/templates/group/new_group_form.html:91
 msgid "Dataset"
-msgstr ""
+msgstr "Datu kopa"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:51
 msgid "Average rating"
-msgstr ""
+msgstr "Vidējais vērtējums"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:51
 msgid "Number of ratings"
-msgstr ""
+msgstr "Vērtējumu skaits"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:56
 msgid "No ratings"
-msgstr ""
+msgstr "Nav vērtējumu"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:58
 msgid "Most Edited Datasets"
-msgstr ""
+msgstr "Visvairāk mainītās datu kopas"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:60
 msgid "Number of edits"
-msgstr ""
+msgstr "Pārmaiņu skaits"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:66
 msgid "Largest Groups"
-msgstr ""
+msgstr "Lielākās grupas"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:68
 #: ckan/forms/common.py:796 ckan/logic/validators.py:114
 msgid "Group"
-msgstr ""
+msgstr "Grupa"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:68
 #: ckan/templates/_util.html:149 ckan/templates/_util.html:162
 msgid "Number of datasets"
-msgstr ""
+msgstr "Datu kopumu skaits"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:74
 msgid "Top Tags"
-msgstr ""
+msgstr "Populārākās etiķetes"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:81
 msgid "Users owning most datasets"
-msgstr ""
+msgstr "Lietotāji, kam pieder visvairāk datu kopu"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:88
 msgid "Page last updated:"
-msgstr ""
+msgstr "Lapa pēdējoreiz atjaunota:"
 
 #: ckanext/stats/templates/ckanext/stats/leaderboard.html:6
 msgid "Leaderboard - Stats"
-msgstr ""
+msgstr "Vadošo saraksts - Statistika"
 
 #: ckanext/stats/templates/ckanext/stats/leaderboard.html:17
 msgid "Dataset Leaderboard"
-msgstr ""
+msgstr "Datu kopas Vadošo sarakts"
 
 #: ckanext/stats/templates/ckanext/stats/leaderboard.html:18
 msgid ""
@@ -110,7 +111,7 @@ msgstr ""
 
 #: ckanext/stats/templates/ckanext/stats/leaderboard.html:20
 msgid "Choose area"
-msgstr ""
+msgstr "Izvēlies reģionu"
 
 #: ckan/new_authz.py:19
 #, python-format
@@ -119,19 +120,19 @@ msgstr ""
 
 #: ckan/controllers/admin.py:19
 msgid "Need to be system administrator to administer"
-msgstr ""
+msgstr "Jābūt sistēmas administratoram, lai to pārvaldītu"
 
 #: ckan/controllers/admin.py:105
 msgid "Changes Saved"
-msgstr ""
+msgstr "Izmaiņas saglabātas"
 
 #: ckan/controllers/admin.py:142 ckan/logic/action/get.py:987
 msgid "unknown user:"
-msgstr ""
+msgstr "nezināms lietotājs:"
 
 #: ckan/controllers/admin.py:152
 msgid "User Added"
-msgstr ""
+msgstr "Lietotājs pievienots"
 
 #: ckan/controllers/admin.py:159
 msgid "unknown authorization group:"
@@ -155,11 +156,11 @@ msgstr ""
 
 #: ckan/controllers/admin.py:289
 msgid "Purge complete"
-msgstr ""
+msgstr "Tīrīšana pabeigta"
 
 #: ckan/controllers/admin.py:291
 msgid "Action not implemented."
-msgstr ""
+msgstr "Darbība nav veikta."
 
 #: ckan/controllers/api.py:48 ckan/controllers/authorization_group.py:22
 #: ckan/controllers/group.py:68 ckan/controllers/home.py:22
@@ -168,11 +169,11 @@ msgstr ""
 #: ckan/controllers/user.py:70 ckan/controllers/user.py:91
 #: ckan/logic/auth/get.py:17
 msgid "Not authorized to see this page"
-msgstr ""
+msgstr "Nav tiesību skatīt šo lapu"
 
 #: ckan/controllers/api.py:106 ckan/controllers/api.py:174
 msgid "Access denied"
-msgstr ""
+msgstr "Pieeja liegta"
 
 #: ckan/controllers/api.py:110 ckan/controllers/api.py:179
 #: ckan/lib/base.py:378 ckan/logic/validators.py:61
@@ -180,22 +181,22 @@ msgstr ""
 #: ckan/logic/validators.py:101 ckan/logic/validators.py:114
 #: ckan/logic/validators.py:136 ckan/logic/action/create.py:306
 msgid "Not found"
-msgstr ""
+msgstr "Nav atrasts"
 
 #: ckan/controllers/api.py:116
 msgid "Bad request"
-msgstr ""
+msgstr "Nederīgs pieprasījums"
 
 #: ckan/controllers/api.py:144
 #, python-format
 msgid "Action name not known: %s"
-msgstr ""
+msgstr "Darbības nosaukums nav zināms: %s"
 
 #: ckan/controllers/api.py:155 ckan/controllers/api.py:305
 #: ckan/controllers/api.py:359
 #, python-format
 msgid "JSON Error: %s"
-msgstr ""
+msgstr "JSON kļūda: %s"
 
 #: ckan/controllers/api.py:160
 #, python-format
@@ -208,7 +209,7 @@ msgstr ""
 #: ckan/controllers/package.py:565 ckan/controllers/user.py:156
 #: ckan/controllers/user.py:238 ckan/controllers/user.py:362
 msgid "Integrity Error"
-msgstr ""
+msgstr "Viengabalainības kļūda"
 
 #: ckan/controllers/api.py:194
 msgid "Parameter Error"
@@ -217,12 +218,12 @@ msgstr ""
 #: ckan/controllers/api.py:244 ckan/logic/action/get.py:979
 #, python-format
 msgid "Cannot list entity of this type: %s"
-msgstr ""
+msgstr "Nevar izveidot šāda tipa vienības sarakstu: %s"
 
 #: ckan/controllers/api.py:273
 #, python-format
 msgid "Cannot read entity of this type: %s"
-msgstr ""
+msgstr "Nevar nolasīt šāda tipa vienību: %s"
 
 #: ckan/controllers/api.py:310
 #, python-format
@@ -240,16 +241,16 @@ msgstr ""
 
 #: ckan/controllers/api.py:384
 msgid "Unable to update search index"
-msgstr ""
+msgstr "Nespēj atjaunot meklēšanas indeksu"
 
 #: ckan/controllers/api.py:405
 #, python-format
 msgid "Cannot delete entity of this type: %s %s"
-msgstr ""
+msgstr "Nevar izdzēst šāda veida vienību: %s %s"
 
 #: ckan/controllers/api.py:429
 msgid "No revision specified"
-msgstr ""
+msgstr "Izmaiņas nav norādītas"
 
 #: ckan/controllers/api.py:433
 #, python-format
@@ -286,12 +287,12 @@ msgstr ""
 #: ckan/controllers/authorization_group.py:44
 #, python-format
 msgid "Not authorized to read %s"
-msgstr ""
+msgstr "Nav tiesību lasīt %s"
 
 #: ckan/controllers/authorization_group.py:62 ckan/controllers/group.py:206
 #: ckan/controllers/group_formalchemy.py:36
 msgid "Unauthorized to create a group"
-msgstr ""
+msgstr "Nav tiesību izveidot grupu"
 
 #: ckan/controllers/authorization_group.py:107 ckan/controllers/group.py:363
 #, python-format
@@ -303,7 +304,7 @@ msgstr ""
 #: ckan/controllers/group.py:305 ckan/controllers/group.py:316
 #: ckan/controllers/group.py:361
 msgid "Group not found"
-msgstr ""
+msgstr "Grupa nav atrasta"
 
 #: ckan/controllers/authorization_group.py:158 ckan/controllers/group.py:328
 #: ckan/controllers/package.py:614
@@ -326,7 +327,7 @@ msgstr ""
 #: ckan/controllers/group.py:284 ckan/controllers/group.py:303
 #, python-format
 msgid "Unauthorized to read group %s"
-msgstr ""
+msgstr "Nav tiesību lasīt grupu %s"
 
 #: ckan/controllers/group.py:106
 msgid "Cannot render description"
@@ -336,11 +337,11 @@ msgstr ""
 #: ckan/controllers/package.py:417 ckan/controllers/package_formalchemy.py:93
 #, python-format
 msgid "User %r not authorized to edit %s"
-msgstr ""
+msgstr "Lietotājs %r nav tiesīgs mainīt %s"
 
 #: ckan/controllers/group.py:345 ckan/controllers/package.py:288
 msgid "Select two revisions before doing the comparison."
-msgstr ""
+msgstr "Atzīmē divas izmaiņas pirms salīdzināšanas."
 
 #: ckan/controllers/group.py:370
 msgid "CKAN Group Revision History"
@@ -384,7 +385,7 @@ msgstr ""
 #: ckan/controllers/package.py:219
 #, python-format
 msgid "Invalid revision format: %r"
-msgstr ""
+msgstr "Nederīgs pārmaiņu formāts: %r"
 
 #: ckan/controllers/package.py:227 ckan/controllers/package.py:266
 #: ckan/controllers/package.py:307 ckan/controllers/package.py:409
@@ -392,7 +393,7 @@ msgstr ""
 #: ckan/controllers/package.py:515 ckan/controllers/package.py:534
 #: ckan/controllers/package.py:563 ckan/controllers/package.py:602
 msgid "Dataset not found"
-msgstr ""
+msgstr "Datu kopa nav atrasta"
 
 #: ckan/controllers/package.py:229 ckan/controllers/package.py:268
 #: ckan/controllers/package.py:305 ckan/controllers/package.py:407
@@ -409,7 +410,7 @@ msgstr ""
 
 #: ckan/controllers/package.py:316
 msgid "Recent changes to CKAN Dataset: "
-msgstr ""
+msgstr "Nesenas izmaiņas CKAN datu kopā:"
 
 #: ckan/controllers/package.py:363 ckan/controllers/package_formalchemy.py:29
 msgid "Unauthorized to create a package"
@@ -917,7 +918,7 @@ msgstr ""
 #: ckan/logic/validators.py:101 ckan/templates/_util.html:241
 #: ckan/templates/_util.html:311
 msgid "User"
-msgstr ""
+msgstr "Lietotājs"
 
 #: ckan/logic/validators.py:124
 msgid "That group name or ID does not exist."
@@ -1062,7 +1063,7 @@ msgstr ""
 
 #: ckan/logic/action/create.py:300
 msgid "Rating must be an integer value."
-msgstr ""
+msgstr "Vērtējumam jābūt ciparam."
 
 #: ckan/logic/action/create.py:304
 #, python-format
@@ -1097,7 +1098,7 @@ msgstr ""
 
 #: ckan/logic/action/update.py:113
 msgid "Resource was not found."
-msgstr ""
+msgstr "Resurss netika atrasts."
 
 #: ckan/logic/action/update.py:128 ckan/logic/action/update.py:180
 #: ckan/logic/action/update.py:309
@@ -1151,7 +1152,7 @@ msgstr ""
 
 #: ckan/logic/auth/create.py:101
 msgid "Group was not found."
-msgstr ""
+msgstr "Grupa netika atrasta."
 
 #: ckan/logic/auth/create.py:121 ckan/logic/auth/publisher/create.py:102
 msgid "Valid API key needed to create a package"
@@ -1441,7 +1442,7 @@ msgstr ""
 
 #: ckan/templates/_util.html:276 ckan/templates/_util.html:332
 msgid "User Group"
-msgstr ""
+msgstr "Lietotāju grupa"
 
 #: ckan/templates/_util.html:353 ckan/templates/_util.html:406
 #: ckan/templates/group/history.html:32 ckan/templates/package/history.html:38
@@ -1620,7 +1621,7 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:55
 msgid "to find out more."
-msgstr ""
+msgstr "lai uzzinātu vairāk."
 
 #: ckan/templates/layout_base.html:56
 #: ckan/templates/package/new_package_form.html:146
@@ -1629,35 +1630,35 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:64 ckan/templates/user/logout.html:7
 msgid "Logout"
-msgstr ""
+msgstr "Iziet"
 
 #: ckan/templates/layout_base.html:67 ckan/templates/user/layout.html:24
 msgid "Login"
-msgstr ""
+msgstr "Ieiet"
 
 #: ckan/templates/layout_base.html:68
 msgid "Register"
-msgstr ""
+msgstr "Reģistrēties"
 
 #: ckan/templates/layout_base.html:80 ckan/templates/home/index.html:17
 msgid "Find datasets"
-msgstr ""
+msgstr "Meklēt datu kopas"
 
 #: ckan/templates/layout_base.html:84 ckan/templates/package/search.html:15
 msgid "Add a dataset"
-msgstr ""
+msgstr "Pievienot datu kopu"
 
 #: ckan/templates/layout_base.html:85 ckan/templates/group/read.html:44
 #: ckan/templates/group/read.html:48
 #: ckan/templates/package/search_form.html:16
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 #: ckan/templates/layout_base.html:87 ckan/templates/layout_base.html:131
 #: ckan/templates/layout_base.html:134 ckan/templates/home/about.html:6
 #: ckan/templates/home/about.html:9 ckan/templates/user/read.html:27
 msgid "About"
-msgstr ""
+msgstr "Par"
 
 #: ckan/templates/layout_base.html:111
 msgid "Master content template placeholder … please replace me."
@@ -1677,26 +1678,26 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:141
 msgid "Contact Us"
-msgstr ""
+msgstr "Sazinies ar mums"
 
 #: ckan/templates/layout_base.html:144
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privātuma nosacījumi"
 
 #: ckan/templates/layout_base.html:150
 msgid "Sections"
-msgstr ""
+msgstr "Sadaļas"
 
 #: ckan/templates/layout_base.html:154
 #: ckan/templates/authorization_group/edit_form.html:10
 #: ckan/templates/user/list.html:6 ckan/templates/user/list.html:7
 msgid "Users"
-msgstr ""
+msgstr "Lietotāji"
 
 #: ckan/templates/layout_base.html:169 ckan/templates/group/history.html:9
 #: ckan/templates/package/history.html:24
 msgid "Revisions"
-msgstr ""
+msgstr "Izmaiņas"
 
 #: ckan/templates/layout_base.html:174
 #: ckan/templates/authorization_group/index.html:6
@@ -1707,11 +1708,11 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:179
 msgid "Site Admin"
-msgstr ""
+msgstr "Vietnes pārvaldnieks"
 
 #: ckan/templates/layout_base.html:187
 msgid "Languages"
-msgstr ""
+msgstr "Valodas"
 
 #: ckan/templates/layout_base.html:202
 msgid "Meta"
@@ -1719,7 +1720,7 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:206
 msgid "Open Knowledge Foundation"
-msgstr ""
+msgstr "Atvērto zināšanu fonds"
 
 #: ckan/templates/layout_base.html:206
 msgid "Licensed under the"
@@ -1727,11 +1728,11 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:207
 msgid "Open Database License"
-msgstr ""
+msgstr "Atvērtās datu kopas licence"
 
 #: ckan/templates/layout_base.html:208
 msgid "This Content and Data is Open"
-msgstr ""
+msgstr "Saturs un dati ir atvērti"
 
 #: ckan/templates/layout_base.html:210
 msgid "Powered by"
@@ -1739,7 +1740,7 @@ msgstr ""
 
 #: ckan/templates/layout_base.html:211
 msgid "CKAN"
-msgstr ""
+msgstr "CKAN"
 
 #: ckan/templates/layout_base.html:211
 msgid "v"
@@ -1789,15 +1790,15 @@ msgstr ""
 
 #: ckan/templates/admin/index.html:6 ckan/templates/admin/index.html:7
 msgid "Administration Dashboard"
-msgstr ""
+msgstr "Pārvaldības panelis"
 
 #: ckan/templates/admin/index.html:10
 msgid "Current Sysadmins"
-msgstr ""
+msgstr "Pašreizējais sistēmas pārvaldnieks"
 
 #: ckan/templates/admin/index.html:11
 msgid "You can change sysadmins on the"
-msgstr ""
+msgstr "Vari mainīt sistēmas pārvaldnieku"
 
 #: ckan/templates/admin/index.html:13
 msgid "authorization page"
@@ -1811,23 +1812,23 @@ msgstr ""
 
 #: ckan/templates/admin/layout.html:20
 msgid "Trash"
-msgstr ""
+msgstr "Atkritne"
 
 #: ckan/templates/admin/trash.html:6 ckan/templates/admin/trash.html:7
 msgid "Administration - Trash"
-msgstr ""
+msgstr "Pārvaldīšana - Atkritne"
 
 #: ckan/templates/admin/trash.html:10
 msgid "Deleted Revisions"
-msgstr ""
+msgstr "Izdzēstās pārmaiņas"
 
 #: ckan/templates/admin/trash.html:21 ckan/templates/admin/trash.html:39
 msgid "Purge them all (forever and irreversibly)"
-msgstr ""
+msgstr "Iztīrīt visas (pavisam un neatgriezeniski)DII"
 
 #: ckan/templates/admin/trash.html:27
 msgid "Deleted Datasets"
-msgstr ""
+msgstr "Izdzēstās datu kopas"
 
 #: ckan/templates/authorization_group/authz.html:5
 msgid "- Authorization - AuthorizationGroups"
@@ -1845,7 +1846,7 @@ msgstr ""
 #: ckan/templates/group/edit_form.html:23
 #: ckan/templates/package/edit_form.html:28
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 #: ckan/templates/authorization_group/edit.html:5
 msgid "- Edit - Authorization Groups"
@@ -1855,7 +1856,7 @@ msgstr ""
 #: ckan/templates/group/edit.html:5 ckan/templates/group/edit.html:6
 #: ckan/templates/package/edit.html:7
 msgid "Edit:"
-msgstr ""
+msgstr "Mainīt:"
 
 #: ckan/templates/authorization_group/edit_form.html:18
 msgid "There are no users currently in this group."
@@ -1994,7 +1995,7 @@ msgstr ""
 
 #: ckan/templates/group/new.html:5 ckan/templates/group/new.html:6
 msgid "Add A Group"
-msgstr ""
+msgstr "Pievienot grupu"
 
 #: ckan/templates/group/new_group_form.html:8
 #: ckan/templates/package/form.html:7
@@ -2032,7 +2033,7 @@ msgstr ""
 #: ckan/templates/package/resource_read.html:146
 #: ckan/templates/user/edit_user_form.html:32
 msgid "Preview"
-msgstr ""
+msgstr "Priekšskats"
 
 #: ckan/templates/group/new_group_form.html:36
 #: ckan/templates/package/new_package_form.html:75
@@ -2264,7 +2265,7 @@ msgstr ""
 
 #: ckan/templates/package/edit_form.html:13
 msgid "Edit summary (briefly describe the changes you have made)"
-msgstr ""
+msgstr "Mainīt:"
 
 #: ckan/templates/package/edit_form.html:17
 #: ckan/templates/package/edit_form.html:20
@@ -2729,11 +2730,11 @@ msgstr ""
 
 #: ckan/templates/user/edit.html:6
 msgid "- Edit - User"
-msgstr ""
+msgstr "- Mainīt - lietotāju "
 
 #: ckan/templates/user/edit.html:7
 msgid "Edit User:"
-msgstr ""
+msgstr "Mainīt lietotāju:"
 
 #: ckan/templates/user/edit_user_form.html:16
 msgid "Full name:"
@@ -2921,7 +2922,7 @@ msgstr ""
 
 #: ckan/templates/user/read.html:5
 msgid "- User"
-msgstr ""
+msgstr "- Lietotājs"
 
 #: ckan/templates/user/read.html:24
 msgid "Member since"
