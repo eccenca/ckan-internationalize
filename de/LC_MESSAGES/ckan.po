@@ -6320,3 +6320,56 @@ msgstr "Wähle eine Datensatz-Eigenschaft und finde heraus, welche Kategorien in
 #: ckanext/stats/templates_legacy/ckanext/stats/leaderboard.html:20
 msgid "Choose area"
 msgstr "Wähle Bereich"
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "This page is not available for your chosen language"
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Pages are are simple way to add extra pages to your ckan instance. You can assign an order to them."
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "What are Pages?"
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Page name already exists in database"
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Not authorized to see this page"
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Edit page"
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Menu Order"
+msgstr ""
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Content"
+msgstr ""
+
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid ""
+msgstr ""
+
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid ""
+msgstr ""
+
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid ""
+msgstr ""
+
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid ""
+msgstr ""
+
