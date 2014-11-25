@@ -6343,20 +6343,20 @@ msgstr ""
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Edit page"
-msgstr ""
+msgstr "Seite bearbeiten"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Menu Order"
-msgstr ""
+msgstr "Menüanordnung"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Content"
-msgstr ""
+msgstr "Inhalt"
 
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
-msgid ""
-msgstr ""
+msgid "Impress"
+msgstr "Impressum"
 
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
