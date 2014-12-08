@@ -6323,23 +6323,23 @@ msgstr "Wähle Bereich"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "This page is not available for your chosen language"
-msgstr ""
+msgstr "Diese Seite ist leider nicht in der ausgewählten Sprache verfügbar"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Pages are are simple way to add extra pages to your ckan instance. You can assign an order to them."
-msgstr ""
+msgstr "Pages bieten die Möglichkeit statische Seiten in ckan zu integrieren"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "What are Pages?"
-msgstr ""
+msgstr "Was sind Pages"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Page name already exists in database"
-msgstr ""
+msgstr "Dieser Seitenname existiert schon"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Not authorized to see this page"
-msgstr ""
+msgstr "Sie besitzen keine Rechte, um diese Seite aufrufen zu dürfen."
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Edit page"
@@ -6357,19 +6357,3 @@ msgstr "Inhalt"
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Impress"
 msgstr "Impressum"
-
-
-#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
-msgid ""
-msgstr ""
-
-
-#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
-msgid ""
-msgstr ""
-
-
-#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
-msgid ""
-msgstr ""
-
