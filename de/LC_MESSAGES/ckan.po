@@ -6385,6 +6385,17 @@ msgstr "Soll die Seite {name} wirklich gelöscht werden? Diese Aktion kann nicht
 msgid "This page is not available for your chosen language"
 msgstr "Diese Seite existiert nicht in der von Ihnen gewählten Sprache"
 
+#: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
+msgid "Pages"
+msgstr "Seiten"
+
+#: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
+msgid "Add page"
+msgstr "Seite hinzufügen"
+
+#: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
+msgid "{0} pages"
+msgstr "{0} Seiten"
 
 #: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
 msgid "enable social media services"
