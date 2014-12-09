@@ -6321,21 +6321,29 @@ msgstr "Wähle eine Datensatz-Eigenschaft und finde heraus, welche Kategorien in
 msgid "Choose area"
 msgstr "Wähle Bereich"
 
+
+
+##############################
+####   custom addition    ####
+####  Henri Knochenhauer  ####
+####   by eccenca GmbH    ####
+##############################
+
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "This page is not available for your chosen language"
 msgstr "Diese Seite ist leider nicht in der ausgewählten Sprache verfügbar"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Pages are are simple way to add extra pages to your ckan instance. You can assign an order to them."
-msgstr "Pages bieten die Möglichkeit statische Seiten in ckan zu integrieren"
+msgstr "Seiten bieten die Möglichkeit statische Inhalte in ckan zu integrieren"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "What are Pages?"
-msgstr "Was sind Pages"
+msgstr "Was sind Seiten?"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Page name already exists in database"
-msgstr "Dieser Seitenname existiert schon"
+msgstr "Eine Seite mit diesem Namen existiert bereits in der Datenbank"
 
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Not authorized to see this page"
@@ -6353,7 +6361,42 @@ msgstr "Menüanordnung"
 msgid "Content"
 msgstr "Inhalt"
 
-
 #: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
 msgid "Impress"
 msgstr "Impressum"
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "This page currently has no content"
+msgstr "Diese Seite besitzt im Moment keinen Inhalt"
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "There are currently no pages here"
+msgstr "Im Mment sind keine Seiten verfügbar"
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Are you sure you want to delete this Page?"
+msgstr "Soll die Seite wirklich gelöscht werden? Diese Aktion kann nicht widerrufen werden."
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "Are you sure you want to delete page - {name}?"
+msgstr "Soll die Seite {name} wirklich gelöscht werden? Diese Aktion kann nicht widerrufen werden."
+
+#: ckanext-pages/ckanext/pages/theme/templates_main/ckanext_pages
+msgid "This page is not available for your chosen language"
+msgstr "Diese Seite existiert nicht in der von Ihnen gewählten Sprache"
+
+
+#: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
+msgid "enable social media services"
+msgstr "Social Media Dienste aktivieren"
+
+#: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
+msgid "disable social media services"
+msgstr "Social Media Dienste deaktivieren"
+
+
+#: ckanext-leipzigtheme/ckanext/leipzigtheme/templates/snippets/social.html
+msgid "By clicking the button below you accept the privacy policy. In case you are logged in with one of these social networks data might be send even if you do not use these functions."
+msgstr "Durch eine Aktivierung der Social-Media-Buttons senden Sie auch Daten an die Netzwerke, wenn Sie nicht mit den Plugins interagieren, aber beim jeweiligen Anbieter eingeloggt sind."
+
+
