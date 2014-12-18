@@ -1,7 +1,7 @@
 # Translations template for ckan.
 # Copyright (C) 2013 ORGANIZATION
 # This file is distributed under the same license as the ckan project.
-# 
+#
 # Translators:
 # Alexander Brateanu <alexander.brateanu@gmail.com>, 2013
 # Adrià Mercader <adria.mercader@okfn.org>, 2013
@@ -6410,4 +6410,6 @@ msgstr "Social Media Dienste deaktivieren"
 msgid "By clicking the button below you accept the privacy policy. In case you are logged in with one of these social networks data might be send even if you do not use these functions."
 msgstr "Durch eine Aktivierung der Social-Media-Buttons senden Sie auch Daten an die Netzwerke, wenn Sie nicht mit den Plugins interagieren, aber beim jeweiligen Anbieter eingeloggt sind."
 
-
+#: ckan/templates/footer.html
+msgid "Structural Funds in Saxony, Germany. ERDF European Regional Development Fund. Supported by European Regional Development Fund."
+msgstr "Strukturfonds in Sachsen. EFRE Europäischer Fonds für regionale Entwicklung. Unterstützt durch Mittel des Europäischen Fonds für regionale Entwicklung."
