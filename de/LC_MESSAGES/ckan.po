@@ -136,7 +136,7 @@ msgstr "Befehl nicht implementiert."
 #: ckan/controllers/user.py:46 ckan/controllers/user.py:73
 #: ckan/controllers/user.py:101 ckan/controllers/user.py:534
 msgid "Not authorized to see this page"
-msgstr "Sie haben keine Autorisierung seite zu sehen"
+msgstr "Sie sind nicht authorisiert, diese Seite zu sehen"
 
 #: ckan/controllers/api.py:118 ckan/controllers/api.py:201
 msgid "Access denied"
@@ -435,22 +435,22 @@ msgid ""
 "Please <a href=\"{link}\">update your profile</a> and add your email address"
 " and your full name. {site} uses your email address if you need to reset "
 "your password."
-msgstr "Bitte <a href=\"{link}\">aktualisiere Dein Profil</a> und trage Deine Emailadresse und Deinen vollständigen Namen ein. {site} nutzt Deine Emailadresse, um Dein Passwort zurücksetzen zu können."
+msgstr "Bitte <a href=\"{link}\">aktualisieren sie ihr Profil</a> und tragen sie ihre Emailadresse und ihren vollständigen Namen ein. {site} nutzt ihre Emailadresse, um ihr Passwort zurücksetzen zu können."
 
 #: ckan/controllers/home.py:103
 #, python-format
 msgid "Please <a href=\"%s\">update your profile</a> and add your email address. "
-msgstr "Bitte <a href=\"%s\">aktualisiere Dein Profil</a> und füge Deine Emailadresse hinzu."
+msgstr "Bitte <a href=\"%s\">aktualisieren sie ihr Profil</a> und fügen sie ihre Emailadresse hinzu."
 
 #: ckan/controllers/home.py:105
 #, python-format
 msgid "%s uses your email address if you need to reset your password."
-msgstr "%s verwendet Deine Emailadresse für den Fall, daß Du Dein Paßwort zurücksetzen mußt."
+msgstr "%s verwendet ihre Emailadresse für den Fall, daß sie ihr Paßwort zurücksetzen müssen."
 
 #: ckan/controllers/home.py:109
 #, python-format
 msgid "Please <a href=\"%s\">update your profile</a> and add your full name."
-msgstr "Bitte <a href=\"%s\">aktualisiere Dein Profil</a> und füge deinen vollen Namen hinzu."
+msgstr "Bitte <a href=\"%s\">aktualisieren sie ihr Profil</a> und fügen sie ihren vollen Namen hinzu."
 
 #: ckan/controllers/package.py:229
 msgid "Licenses"
@@ -525,7 +525,7 @@ msgstr "Der Datensatz {id} konnte nicht gefunden werden."
 
 #: ckan/controllers/package.py:649
 msgid "You must add at least one data resource"
-msgstr "Du musst mindestens eine Daten-Ressource hinzufügen"
+msgstr "Sie müssen mindestens eine Daten-Ressource hinzufügen"
 
 #: ckan/controllers/package.py:657
 #: ckan/templates_legacy/error_document_template.html:5
@@ -747,7 +747,7 @@ msgstr "Fehlerhaftes Captcha. Bitte versuch es noch einmal."
 msgid ""
 "User \"%s\" is now registered but you are still logged in as \"%s\" from "
 "before"
-msgstr "Benutzer \"%s\" ist jetzt registriert, aber Du bist noch als \"%s\" angemeldet."
+msgstr "Benutzer \"%s\" ist jetzt registriert, aber sie sind noch als \"%s\" angemeldet."
 
 #: ckan/controllers/user.py:245
 msgid "No user specified"
@@ -830,7 +830,7 @@ msgstr "Die eingegebenen Passwörter stimmen nicht überein."
 
 #: ckan/controllers/user.py:510
 msgid "You must provide a password"
-msgstr "Du musst ein Passwort angeben"
+msgstr "Sie müssen ein Passwort angeben"
 
 #: ckan/controllers/user.py:572
 msgid "Follow item not found"
@@ -1112,7 +1112,7 @@ msgstr "{y} Qio."
 
 #: ckan/lib/helpers.py:774
 msgid "Update your avatar at gravatar.com"
-msgstr "Aktualisiere Deinen Avatar auf gravatar.com"
+msgstr "Aktualisieren sie ihren Avatar auf gravatar.com"
 
 #: ckan/lib/helpers.py:977 ckan/lib/helpers.py:989
 #: ckan/templates_legacy/js_strings.html:16
@@ -1182,7 +1182,7 @@ msgid ""
 "\n"
 "       %(reset_link)s\n"
 "    "
-msgstr "Sie haben veranslasst, Ihr Kennwort auf Seite %(site_title)s zurückzusetzen.\n\nBitt klicken Sie hierzu auf folgenden Link, um dieses zu bestätigen:\n\n %(reset_link)s\n    "
+msgstr "Sie haben veranlasst, Ihr Kennwort auf Seite %(site_title)s zurückzusetzen.\n\nBitte klicken Sie hierzu auf folgenden Link, um dieses zu bestätigen:\n\n %(reset_link)s\n    "
 
 #: ckan/lib/mailer.py:119
 #, python-format
@@ -1241,7 +1241,7 @@ msgstr "Das Eingabefeld %(name)s war nicht erwartet."
 
 #: ckan/lib/navl/validators.py:112
 msgid "Please enter an integer value"
-msgstr "Bitte gib eine Ganzzahl ein"
+msgstr "Bitte geben sie eine Ganzzahl ein"
 
 #: ckan/logic/__init__.py:99 ckan/logic/action/__init__.py:54
 #: ckan/templates/package/edit_base.html:19
@@ -1437,7 +1437,7 @@ msgstr "Der Anmeldename ist nicht verfügbar."
 
 #: ckan/logic/validators.py:549
 msgid "Please enter both passwords"
-msgstr "Bitte beide Passwörter angebens"
+msgstr "Bitte beide Passwörter angeben"
 
 #: ckan/logic/validators.py:557
 msgid "Passwords must be strings"
@@ -1455,7 +1455,7 @@ msgstr "Die angegebenen Passwörter stimmen nicht überein"
 msgid ""
 "Edit not allowed as it looks like spam. Please avoid links in your "
 "description."
-msgstr "Diese Bearbeitung nicht zulassen, weil sie wie Spam aussieht. Bitte vermeiden Sie Links in der Beschreibung."
+msgstr "Diese Bearbeitung ist nicht zugelassen, weil sie wie Spam aussieht. Bitte vermeiden Sie Links in der Beschreibung."
 
 #: ckan/logic/validators.py:602
 msgid "That vocabulary name is already in use."
@@ -1537,7 +1537,7 @@ msgstr "Sie müssen eine Bewertung angeben (parameter \"rating\")."
 
 #: ckan/logic/action/create.py:758
 msgid "Rating must be an integer value."
-msgstr "Die Bewertung muss einen integer Wert sein."
+msgstr "Die Bewertung muss ein integer Wert sein."
 
 #: ckan/logic/action/create.py:762
 #, python-format
@@ -1671,11 +1671,11 @@ msgstr "Benutzer %s hat keine Berechtigung, Datensätze zu dieser Organisation h
 
 #: ckan/logic/auth/create.py:52
 msgid "You must be a sysadmin to create a featured related item"
-msgstr "Du musst System-Administrator sein, um ein verwandtes Element hinzuzufügen"
+msgstr "Sie müssen System-Administrator sein, um ein verwandtes Element hinzuzufügen"
 
 #: ckan/logic/auth/create.py:56
 msgid "You must be logged in to add a related item"
-msgstr "Du musst eingeloggt sein, um ein verwandtes Element hinzuzufügen"
+msgstr "Sie müssen eingeloggt sein, um ein verwandtes Element hinzuzufügen"
 
 #: ckan/logic/auth/create.py:80
 #, python-format
@@ -1821,7 +1821,7 @@ msgstr "Nur der Eigentümer kann ein verwandtes Element aktualisieren"
 
 #: ckan/logic/auth/update.py:142
 msgid "You must be a sysadmin to change a related item's featured field."
-msgstr "Du musst System-Administrator sein, um das hervorgehobene Feld eines verwandten Elements zu ändern."
+msgstr "Sie müssen System-Administrator sein, um das hervorgehobene Feld eines verwandten Elements zu ändern."
 
 #: ckan/logic/auth/update.py:159
 #, python-format
@@ -1995,7 +1995,7 @@ msgstr "Keine Treffer"
 
 #: ckan/public/base/javascript/modules/autocomplete.js:32
 msgid "Start typing…"
-msgstr "Gib etwas ein..."
+msgstr "Geben sie etwas ein..."
 
 #: ckan/public/base/javascript/modules/autocomplete.js:34
 msgid "Input is too short, must be at least one character"
@@ -2007,11 +2007,11 @@ msgstr "Dieses Formular hat ungespeicherte Änderungen"
 
 #: ckan/public/base/javascript/modules/confirm-action.js:7
 msgid "Please Confirm Action"
-msgstr "Bestätige bitte die Aktion"
+msgstr "Bestätigen sie bitte die Aktion"
 
 #: ckan/public/base/javascript/modules/confirm-action.js:8
 msgid "Are you sure you want to perform this action?"
-msgstr "Bist du sicher, dass du diese Aktion ausführen willst?"
+msgstr "Sind sie sicher, dass sie diese Aktion ausführen wollen?"
 
 #: ckan/public/base/javascript/modules/confirm-action.js:9
 #: ckan/templates/user/new_user_form.html:9
@@ -2050,7 +2050,7 @@ msgstr "Folgen"
 #: ckan/templates_legacy/js_strings.html:16
 #: ckan/templates_legacy/snippets/follow_button.html:8
 msgid "Unfollow"
-msgstr "Entfolgen"
+msgstr "Nicht folgen"
 
 #: ckan/public/base/javascript/modules/image-upload.js:15
 #: ckan/templates_legacy/js_strings.html:16
