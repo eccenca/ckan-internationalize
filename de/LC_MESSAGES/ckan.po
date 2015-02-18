@@ -712,7 +712,7 @@ msgstr "Andere"
 
 #: ckan/controllers/tag.py:70
 msgid "Tag not found"
-msgstr "Tag nicht gefunden"
+msgstr "Schlagwort nicht gefunden"
 
 #: ckan/controllers/user.py:71 ckan/controllers/user.py:208
 #: ckan/controllers/user.py:271 ckan/controllers/user.py:312
@@ -850,7 +850,7 @@ msgstr "Alles"
 
 #: ckan/lib/activity_streams.py:64
 msgid "{actor} added the tag {tag} to the dataset {dataset}"
-msgstr "{actor} hat den Tag {tag} zum Datensatz {dataset} hinzugefügt"
+msgstr "{actor} hat das Schlagwort {tag} zum Datensatz {dataset} hinzugefügt"
 
 #: ckan/lib/activity_streams.py:67
 msgid "{actor} updated the group {group}"
@@ -931,7 +931,7 @@ msgstr "{actor} hat sich registriert"
 
 #: ckan/lib/activity_streams.py:126
 msgid "{actor} removed the tag {tag} from the dataset {dataset}"
-msgstr "{actor} hat das Tag {tag} vom Datensatz {dataset} entfernt"
+msgstr "{actor} hat das Schlagwort {tag} vom Datensatz {dataset} entfernt"
 
 #: ckan/lib/activity_streams.py:129
 msgid "{actor} deleted the related item {related_item}"
@@ -1272,7 +1272,7 @@ msgstr "Fehlender Wert"
 #: ckan/logic/converters.py:75 ckan/logic/converters.py:90
 #, python-format
 msgid "Tag vocabulary \"%s\" does not exist"
-msgstr "Tag-Vokabular \"%s\" existiert nicht"
+msgstr "Schlagwort-Vokabular \"%s\" existiert nicht"
 
 #: ckan/logic/converters.py:122 ckan/logic/validators.py:162
 #: ckan/logic/validators.py:179 ckan/logic/validators.py:681
@@ -1410,17 +1410,17 @@ msgstr "Gruppenname exisitiert bereits in der Datenbank"
 #: ckan/logic/validators.py:395
 #, python-format
 msgid "Tag \"%s\" length is less than minimum %s"
-msgstr "Die Länge des Tag \"%s\" ist kürzer als das Minimum von %s"
+msgstr "Die Länge des Schlagwortes \"%s\" ist kürzer als das Minimum von %s"
 
 #: ckan/logic/validators.py:399
 #, python-format
 msgid "Tag \"%s\" length is more than maximum %i"
-msgstr "Tag \"%s\" ist länger als maximal %i Zeichen"
+msgstr "Schlagwort \"%s\" ist länger als maximal %i Zeichen"
 
 #: ckan/logic/validators.py:407
 #, python-format
 msgid "Tag \"%s\" must be alphanumeric characters or symbols: -_."
-msgstr "Tag \"%s\" muss aus alphnummerischen Zeichen oder diesen Symbolen bestehen: -_. "
+msgstr "Schlagwort \"%s\" muss aus alphnummerischen Zeichen oder diesen Symbolen bestehen: -_. "
 
 #: ckan/logic/validators.py:415
 #, python-format
@@ -1468,21 +1468,21 @@ msgstr "Der Schlüsselwert kann nicht von %s auf %s geändert werden. Dieser Sch
 
 #: ckan/logic/validators.py:617
 msgid "Tag vocabulary was not found."
-msgstr "Tag-Vokabular wurde nicht gefunden."
+msgstr "Schlagwort-Vokabular wurde nicht gefunden."
 
 #: ckan/logic/validators.py:630
 #, python-format
 msgid "Tag %s does not belong to vocabulary %s"
-msgstr "Tag %s gehört nicht zu Vokabular %s."
+msgstr "Schlagwort %s gehört nicht zu Vokabular %s."
 
 #: ckan/logic/validators.py:636
 msgid "No tag name"
-msgstr "Kein Tag-Name"
+msgstr "Kein Schlagwort"
 
 #: ckan/logic/validators.py:649
 #, python-format
 msgid "Tag %s already belongs to vocabulary %s"
-msgstr "Tag %s gehört bereits zu Vokabular %s"
+msgstr "Schlagwort %s gehört bereits zu Vokabular %s"
 
 #: ckan/logic/validators.py:672
 msgid "Please provide a valid URL"
@@ -1598,7 +1598,7 @@ msgstr "Vokabular \"%s\" konnte nicht gefunden werden"
 #: ckan/logic/action/delete.py:472
 #, python-format
 msgid "Could not find tag \"%s\""
-msgstr "Tag \"%s\" konnte nicht gefunden werden"
+msgstr "Schlagwort \"%s\" konnte nicht gefunden werden"
 
 #: ckan/logic/action/delete.py:498 ckan/logic/action/delete.py:502
 msgid "You must be logged in to unfollow something."
@@ -5762,7 +5762,7 @@ msgstr "Datensatz - "
 msgid ""
 ",\n"
 "      Tag -"
-msgstr ",\n      Tag -"
+msgstr ",\n      Schlagwort -"
 
 #: ckan/templates_legacy/snippets/data-viewer-embed-dialog.html:19
 msgid "Embed this view"
@@ -5825,7 +5825,7 @@ msgstr "- Schlagworte"
 
 #: ckan/templates_legacy/tag/read.html:7
 msgid "Tag:"
-msgstr "Tag:"
+msgstr "Schlagwort:"
 
 #: ckan/templates_legacy/tag/read.html:10
 #, python-format
@@ -5858,7 +5858,7 @@ msgstr "Einem anderen Benutzer folgen"
 
 #: ckan/templates_legacy/user/dashboard.html:30
 msgid "Create a group or a tag"
-msgstr "Eine Gruppe/Kategorie oder ein Tag erstellen"
+msgstr "Eine Gruppe/Kategorie oder ein Schlagwort erstellen"
 
 #: ckan/templates_legacy/user/dashboard.html:31
 msgid "Or simply browse the repository"
