@@ -4487,7 +4487,7 @@ msgstr "Fordere Zurücksetzung an"
 msgid ""
 "Enter your username into the box and we will send you an email with a link "
 "to enter a new password."
-msgstr "Gibt deinen Nutzernamen in das Feld ein und wir senden dir eine E-Mail mit einem Link um ein neues Passwort zu setzen."
+msgstr "Geben Sie ihren Nutzernamen in das Feld ein und wir senden Ihnen eine E-Mail mit einem Link, um ein neues Passwort zu setzen."
 
 #: ckan/templates/user/snippets/followee_dropdown.html:12
 #: ckan/templates/user/snippets/followee_dropdown.html:13
