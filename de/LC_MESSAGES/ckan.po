@@ -316,7 +316,7 @@ msgstr "Gruppen"
 #: ckan/templates_legacy/tag/index.html:6
 #: ckan/templates_legacy/tag/index.html:9
 msgid "Tags"
-msgstr "Tags"
+msgstr "Schlagworte"
 
 #: ckan/controllers/group.py:292 ckan/controllers/home.py:73
 #: ckan/controllers/package.py:228 ckan/lib/helpers.py:604
@@ -4006,7 +4006,7 @@ msgstr "Änderungen"
 #: ckan/templates/revision/read.html:74
 #: ckan/templates_legacy/revision/read.html:54
 msgid "Datasets' Tags"
-msgstr "Tags des Datensatzes"
+msgstr "Schlagworte des Datensatzes"
 
 #: ckan/templates/revision/snippets/revisions_list.html:7
 #: ckan/templates_legacy/snippets/revision_list.html:11
@@ -4029,7 +4029,7 @@ msgstr "Betten Sie diese Ansicht ein, indem Sie dies in Ihre Webseite kopieren:"
 #: ckan/templates/snippets/datapreview_embed_dialog.html:10
 #: ckan/templates_legacy/snippets/data-viewer-embed-dialog.html:21
 msgid "Choose width and height in pixels:"
-msgstr "Wähle Breite und Höhe in Pixel:"
+msgstr "Wählen Sie Breite und Höhe in Pixel:"
 
 #: ckan/templates/snippets/datapreview_embed_dialog.html:11
 #: ckan/templates_legacy/snippets/data-viewer-embed-dialog.html:22
@@ -4208,7 +4208,7 @@ msgstr "Änderungen"
 
 #: ckan/templates/tag/index.html:33 ckan/templates/tag/index.html:34
 msgid "Search Tags"
-msgstr "Tags / Schlagworte durchsuchen"
+msgstr "Schlagworte durchsuchen"
 
 #: ckan/templates/user/dashboard.html:6
 #: ckan/templates_legacy/user/layout.html:11
@@ -4487,7 +4487,7 @@ msgstr "Fordere Zurücksetzung an"
 msgid ""
 "Enter your username into the box and we will send you an email with a link "
 "to enter a new password."
-msgstr "Gibt deinen Nutzernamen in das Feld ein und wir senden dir eine E-Mail mit einem Link um ein neues Passwort zu setzen."
+msgstr "Geben Sie ihren Nutzernamen in das Feld ein und wir senden Ihnen eine E-Mail mit einem Link, um ein neues Passwort zu setzen."
 
 #: ckan/templates/user/snippets/followee_dropdown.html:12
 #: ckan/templates/user/snippets/followee_dropdown.html:13
@@ -4915,7 +4915,7 @@ msgid ""
 "when you want to restrict users from editing a collection. A [1:group] can "
 "be set-up to specify which users have permission to add or remove datasets "
 "from it."
-msgstr "Während Tags gut geeignet sind um Datensätze zu gruppieren gibt es auch Gelegenheiten zu denen Sie eine Sammlung beschränken wollen. Eine [1:Gruppe] kann festlegen, welche Benutzer Datensätze hinzufügen oder entfernen können. "
+msgstr "Während Schlagworte gut geeignet sind um Datensätze zu gruppieren gibt es auch Gelegenheiten zu denen Sie eine Sammlung beschränken wollen. Eine [1:Gruppe] kann festlegen, welche Benutzer Datensätze hinzufügen oder entfernen können. "
 
 #: ckan/templates_legacy/group/layout.html:18
 msgid "New Dataset..."
@@ -5817,7 +5817,7 @@ msgstr "Suche zurücksetzen"
 
 #: ckan/templates_legacy/tag/index.html:34
 msgid "and see all tags."
-msgstr "alle Tags ansehen."
+msgstr "alle Schlagworte ansehen."
 
 #: ckan/templates_legacy/tag/read.html:6
 msgid "- Tags"
@@ -6267,7 +6267,7 @@ msgstr "Keine Gruppen"
 #: ckanext/stats/templates/ckanext/stats/index.html:183
 #: ckanext/stats/templates_legacy/ckanext/stats/index.html:88
 msgid "Top Tags"
-msgstr "Beliebteste Tags"
+msgstr "Beliebteste Schlagworte"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:136
 msgid "Tag Name"
@@ -6315,11 +6315,11 @@ msgstr "Datensatz Rangliste"
 msgid ""
 "Choose a dataset attribute and find out which categories in that area have "
 "the most datasets. E.g. tags, groups, license, res_format, country."
-msgstr "Wähle eine Datensatz-Eigenschaft und finde heraus, welche Kategorien in dieser Gegend die meisten Datensätze beinhalten. Z.B. tags, groups, license, res_format, country."
+msgstr "Wählen Sie eine Datensatz-Eigenschaft und finden Sie heraus, welche Kategorien in dieser Gegend die meisten Datensätze beinhalten. Z.B. Schlagworte, Gruppen, Lizenz, Format, Land."
 
 #: ckanext/stats/templates_legacy/ckanext/stats/leaderboard.html:20
 msgid "Choose area"
-msgstr "Wähle Bereich"
+msgstr "Bereich wählen"
 
 
 
