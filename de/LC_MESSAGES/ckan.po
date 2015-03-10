@@ -3567,7 +3567,7 @@ msgstr "Quelle"
 #: ckan/templates_legacy/package/new_package_form.html:205
 #: ckan/templates_legacy/package/read_core.html:73
 msgid "Maintainer"
-msgstr "Maintainer"
+msgstr "Verwalter"
 
 #: ckan/templates/package/snippets/additional_info.html:45
 #: ckan/templates/package/snippets/package_metadata_fields.html:10
@@ -3684,7 +3684,7 @@ msgstr "erika@example.com"
 
 #: ckan/templates/package/snippets/package_metadata_fields.html:22
 msgid "Maintainer Email"
-msgstr "E-Mail des Verantwortlichen"
+msgstr "E-Mail des Verwalters"
 
 #: ckan/templates/package/snippets/package_metadata_form.html:14
 #: ckan/templates/package/snippets/resource_form.html:68
@@ -5412,7 +5412,7 @@ msgstr "Falls es einen anderen wichtigen Ansprechpartner (neben der Person im Au
 
 #: ckan/templates_legacy/package/new_package_form.html:213
 msgid "Maintainer email"
-msgstr "Maintainer E-Mail"
+msgstr "Verwalter E-Mail"
 
 #: ckan/templates_legacy/package/new_package_form.html:223
 msgid "A number representing the version (if applicable)"
