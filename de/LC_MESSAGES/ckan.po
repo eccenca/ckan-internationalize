@@ -797,7 +797,7 @@ msgstr "\"%s\" passt zu mehreren Nutzern"
 #: ckan/controllers/user.py:433 ckan/controllers/user.py:435
 #, python-format
 msgid "No such user: %s"
-msgstr "Benutzername oder Passwort ungültig: %s"
+msgstr "User existiert nicht: %s"
 
 #: ckan/controllers/user.py:440
 msgid "Please check your inbox for a reset code."
@@ -814,7 +814,7 @@ msgstr "Keine Berechtigung, Passwort zurückzusetzen."
 
 #: ckan/controllers/user.py:471
 msgid "Invalid reset key. Please try again."
-msgstr "Ungültiger Rücksetzungslink. Bitte noch einmal versuchen."
+msgstr "Ungülitger Rücksetzungslink. Bitte noch einmal versuchen."
 
 #: ckan/controllers/user.py:483
 msgid "Your password has been reset."
