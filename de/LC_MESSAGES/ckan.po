@@ -6419,7 +6419,7 @@ msgstr "Strukturfonds in Sachsen. EFRE Europäischer Fonds für regionale Entwic
 #####################
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "access_constraints"
-msgstr ""
+msgstr "Zugriffseinschränkung"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "bbox-east-long"
@@ -6463,11 +6463,11 @@ msgstr "Pflege- und Aktualisierungsintervall"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "guid"
-msgstr ""
+msgstr "eindeutiger Bezeichner (GUID)"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "licence"
-msgstr ""
+msgstr "Lizenz"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "metadata-date"
@@ -6505,6 +6505,18 @@ msgstr "Referenzsystem"
 msgid "spatial_harvester"
 msgstr "Spatial-Harvester"
 
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "graphic-preview-description"
+msgstr "Beschreibung der Vorschau"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "graphic-preview-file"
+msgstr "Vorschau Datei"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+# msgid ""
+# msgstr ""
+
 ########################
 # CSW Harvsters values #
 ########################
@@ -6523,3 +6535,7 @@ msgstr "nein"
 #: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 # msgid "31468"
 # msgstr "Gauß-Krüger-System (Bessel), 4.Streifen"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "ger"
+msgstr "Deutsch"
