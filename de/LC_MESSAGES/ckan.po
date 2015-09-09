@@ -6413,3 +6413,129 @@ msgstr "Durch eine Aktivierung der Social-Media-Buttons senden Sie auch Daten an
 #: ckan/templates/footer.html
 msgid "Structural Funds in Saxony, Germany. ERDF European Regional Development Fund. Supported by European Regional Development Fund."
 msgstr "Strukturfonds in Sachsen. EFRE Europäischer Fonds für regionale Entwicklung. Unterstützt durch Mittel des Europäischen Fonds für regionale Entwicklung."
+
+#####################
+# CSW Harvsters key #
+#####################
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "access_constraints"
+msgstr "Zugriffseinschränkung"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-east-long"
+msgstr "Geografische Ausdehnung Östliche Länge"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-north-lat"
+msgstr "Geografische Ausdehnung Nördliche Breite"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-south-lat"
+msgstr "Geografische Ausdehnung Südliche Breite"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-west-long"
+msgstr "Geografische Ausdehnung Westliche Länge"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "contact-email"
+msgstr "Kontakt, E-Mail Adresse"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "coupled-resource"
+msgstr "Datensatzverknüpfung"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "dataset-reference-date-creation"
+msgstr "Erzeugungsdatum"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "dataset-reference-date-publicationn"
+msgstr "Publikationssdatum"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "dataset-reference-date-revision"
+msgstr "Revisionssdatum"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "frequency-of-update"
+msgstr "Pflege- und Aktualisierungsintervall"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "guid"
+msgstr "eindeutiger Bezeichner (GUID)"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "licence"
+msgstr "Lizenz"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "metadata-date"
+msgstr "Datum des Metadatenimports"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "metadata-language"
+msgstr "Sprache der importierten Metadaten"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "progress"
+msgstr "Fortschritt"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "resource-type"
+msgstr "Art der Ressource"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "responsible-party"
+msgstr "Kontakt, Organisation"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial"
+msgstr "GEO-JSON"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-data-service-type"
+msgstr "Service Art"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system"
+msgstr "Referenzsystem"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial_harvester"
+msgstr "Spatial-Harvester"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "graphic-preview-description"
+msgstr "Beschreibung der Vorschau"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "graphic-preview-file"
+msgstr "Vorschau Datei"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+# msgid ""
+# msgstr ""
+
+########################
+# CSW Harvsters values #
+########################
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "continual"
+msgstr "laufend"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "true"
+msgstr "ja"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "false"
+msgstr "nein"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+# msgid "31468"
+# msgstr "Gauß-Krüger-System (Bessel), 4.Streifen"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "ger"
+msgstr "Deutsch"
