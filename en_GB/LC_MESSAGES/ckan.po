@@ -6374,15 +6374,15 @@ msgstr "Meta Data Language"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "progress"
-msgstr "Fortschritt"
+msgstr "Progress"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "resource-type"
-msgstr "Art der Ressource"
+msgstr "Resource Type"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "responsible-party"
-msgstr "Kontakt, Organisation"
+msgstr "Contact, Organisation"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "spatial"
