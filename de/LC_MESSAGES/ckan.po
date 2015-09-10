@@ -6605,5 +6605,5 @@ msgid "quarterly"
 msgstr "vierteljährlich"
 
 #: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-# msgid ""
-# msgstr ""
+msgid "asNeeded"
+msgstr "bei Bedarf"

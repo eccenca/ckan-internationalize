@@ -1,7 +1,7 @@
 # Translations template for ckan.
 # Copyright (C) 2013 ORGANIZATION
 # This file is distributed under the same license as the ckan project.
-# 
+#
 # Translators:
 # darwinp <darwinpeltan@gmail.com>, 2013
 # Sean Hammond <sean.hammond@okfn.org>, 2013
@@ -6308,3 +6308,141 @@ msgstr "Choose a dataset attribute and find out which categories in that area ha
 #: ckanext/stats/templates_legacy/ckanext/stats/leaderboard.html:20
 msgid "Choose area"
 msgstr "Choose area"
+
+#####################
+# CSW Harvsters key #
+#####################
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "access_constraints"
+msgstr "Access Constraints"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-east-long"
+msgstr "Eastern Longitude"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-north-lat"
+msgstr "Northern Latitudes"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-south-lat"
+msgstr "Southern Latitudes"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "bbox-west-long"
+msgstr "Western Longitudes"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "contact-email"
+msgstr "E-Mail Address"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "coupled-resource"
+msgstr "Linked Datasets"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "dataset-reference-date-creation"
+msgstr "Creation Date"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "dataset-reference-date-publication"
+msgstr "Publication Date"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "dataset-reference-date-revision"
+msgstr "Revision Date"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "frequency-of-update"
+msgstr "Frequency of Updates"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "guid"
+msgstr "Unique Identifier (GUID)"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "licence"
+msgstr "License"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "metadata-date"
+msgstr "Meta Data Import Date"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "metadata-language"
+msgstr "Meta Data Language"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "progress"
+msgstr "Fortschritt"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "resource-type"
+msgstr "Art der Ressource"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "responsible-party"
+msgstr "Kontakt, Organisation"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial"
+msgstr "GEO-JSON"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-data-service-type"
+msgstr "Service Type"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system"
+msgstr "Spatial Reference System"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial_harvester"
+msgstr "Spatial Harvester"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "graphic-preview-description"
+msgstr "Preview Description"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "graphic-preview-file"
+msgstr "Preview File"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+# msgid ""
+# msgstr ""
+
+########################
+# CSW Harvsters values #
+########################
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "continual"
+msgstr "continous"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "ger"
+msgstr "german"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "notPlanned"
+msgstr "not planned"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "principalInvestigator"
+msgstr "Project Manager"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "originator"
+msgstr "Originator"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "pointOfContact"
+msgstr "Point of Contact"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "application"
+msgstr "Application"
+
+#: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "asNeeded"
+msgstr "as needed"
