@@ -6514,40 +6514,44 @@ msgid "graphic-preview-file"
 msgstr "Vorschau Datei"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "organization-role"
+msgid "Role"
 msgstr "Funktion"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "organization-name"
+msgid "Organisation"
 msgstr "Organisation"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "organization-position-name"
+msgid "Position"
 msgstr "Position"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "contact-phone"
+msgid "Phone Number"
 msgstr "Telefonnummer"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "contact-facsimile"
+msgid "Fax Number"
 msgstr "Faxnummer"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "contact-delivery-point"
+msgid "Street Address"
 msgstr "Adresse"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "contact-city"
+msgid "City"
 msgstr "Ort"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "contact-administrative-area"
+msgid "Administrative Area"
 msgstr "Verwaltungseinheit"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
-msgid "contact-country"
+msgid "Country"
 msgstr "Land"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "E-Mail Address"
+msgstr "E-Mail Adresse"
 
 #: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 # msgid ""
