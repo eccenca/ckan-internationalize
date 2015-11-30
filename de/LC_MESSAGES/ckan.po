@@ -6638,7 +6638,7 @@ msgstr "Sprache"
 
 #: keys needed by LIS-harvester
 msgid "http://www.w3.org/ns/dcat#modified"
-msgstr "letzte Änderung"
+msgstr "Änderungsdatum"
 
 #: keys needed by LIS-harvester
 msgid "http://www.w3.org/ns/dcat#theme"
