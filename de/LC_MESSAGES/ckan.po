@@ -6607,3 +6607,39 @@ msgstr "vierteljährlich"
 #: dynamic values from CSW harvester used in ckan/template/packge/snippets/additional_info.html
 msgid "asNeeded"
 msgstr "bei Bedarf"
+
+#########################
+# LIS HARVESTER
+#########################
+
+#: keys needed by LIS-harvester
+msgid "http://purl.org/dc/terms/accrualPeriodicity"
+msgstr "Aktualisierungsintervall"
+
+#: keys needed by LIS-harvester
+msgid "http://www.w3.org/ns/dcat#contactPoint"
+msgstr "Datenzusammenstellung"
+
+#: keys needed by LIS-harvester
+msgid "http://purl.org/linked-data/sdmx/2009/code#freq-A"
+msgstr "jährlich"
+
+#: keys needed by LIS-harvester
+msgid "http://purl.org/linked-data/sdmx/2009/code#freq-Q"
+msgstr "quartalsweise"
+
+#: keys needed by LIS-harvester
+msgid "http://id.loc.gov/vocabulary/iso639-1/de"
+msgstr "Deutsch"
+
+#: keys needed by LIS-harvester
+msgid "http://purl.org/dc/terms/language"
+msgstr "Sprache"
+
+#: keys needed by LIS-harvester
+msgid "http://www.w3.org/ns/dcat#modified"
+msgstr "letzte Änderung"
+
+#: keys needed by LIS-harvester
+msgid "http://www.w3.org/ns/dcat#theme"
+msgstr "Hauptthema"
