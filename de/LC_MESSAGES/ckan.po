@@ -6643,3 +6643,28 @@ msgstr "Änderungsdatum"
 #: keys needed by LIS-harvester
 msgid "http://www.w3.org/ns/dcat#theme"
 msgstr "Hauptthema"
+
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-1"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-2"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-3"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-4"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-5"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-6"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-7"
+msgstr "Referenzsystem"
+#: dynamic keys from CSW harvester used in ckan/template/packge/snippets/additional_info.html
+msgid "spatial-reference-system-8"
+msgstr "Referenzsystem"
